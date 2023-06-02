@@ -1,4 +1,10 @@
 
+## 版本
+
+php: v8.2  
+laravel: v9.52  
+laravel-admin: v1  
+
 ## 快速上手
 1. setting .env  file
 
@@ -20,7 +26,7 @@ php artisan migrate
 | image_path  | varchar(100) | 圖片路徑  |
 | price       | int(11)      | 價格     |
 
-## demo 
+## DEMO
 
 ### 登入頁
 Route: `/admin`  
