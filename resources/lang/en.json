@@ -1,0 +1,9 @@
+{
+    "Id": "Id",
+    "Name": "Name",
+    "Description":  "Description",
+    "Image path": "Image Path",
+    "Price":  "Price",
+    "Created at": "Created at",
+    "Updated at":  "Updated at"
+}
